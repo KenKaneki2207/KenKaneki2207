@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenkaneki2207" alt="kenkaneki2207" /></a> </p>
 
-- 🔭 I’m currently working on **Neural Regrssion Classification Model**
+- 🔭 I’m currently working on **Neural Network Classification Model**
 
 - 🌱 I’m currently learning **Tensorflow**
 
