@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 💬 Ask me about **Python algorithms and DSA.**
+- 💬 Ask me about **Python|Machine Laearning**
 
 - 📫 How to reach me **gaikwadganesh220703@gmail.com**
 
